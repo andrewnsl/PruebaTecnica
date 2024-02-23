@@ -1,0 +1,42 @@
+[
+  {
+    "Code": 1,
+    "Type": 4,
+    "Message": "Resultado con exito"
+  },
+  {
+    "Code": 2,
+    "Type": 3,
+    "Message": "Ocurrio un error interno, por favor comunicarse con el administrador."
+  },
+  {
+    "Code": 3,
+    "Type": 1,
+    "Message": "No hay registros."
+  },
+  {
+    "Code": 4,
+    "Type": 1,
+    "Message": "No tienes permisos para ingresar."
+  },
+  {
+    "Code": 5,
+    "Type": 1,
+    "Message": "Ya existe un registro creado."
+  },
+  {
+    "Code": 6,
+    "Type": 1,
+    "Message": "Usuario o contraseña incorrectos"
+  },
+  {
+    "Code": 7,
+    "Type": 1,
+    "Message": "El usuario se encuentra inactivo"
+  },
+  {
+    "Code": 8,
+    "Type": 1,
+    "Message": "El codigo de verificacion se ha expirado"
+  }
+]
